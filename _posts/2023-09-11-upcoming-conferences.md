@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upcoming October 2023 Conference Presentations
-tags: [Research]
+tags: [Research][Conference Presentation]
 comments: false
 ---
 
