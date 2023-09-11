@@ -2,7 +2,9 @@
 layout: page
 title: Publications
 ---
-My current research explores sociotechnical issues in data. I write about the intersections and borders between technology and social power structures using methods from data science, user interface and user experience design (UI/UX Design), decolonization, sociology, and psychology. My research prioritizes co-production of knowledge and collaborative writing.
+My current research explores sociotechnical issues in data. I prioritize co-production of knowledge and collaborative writing.
+
+I often write about the intersections and borders between technology and social power structures using methods from data science, user interface and user experience design (UI/UX Design), decolonization, sociology, and psychology. 
 
 
 ## 2023
