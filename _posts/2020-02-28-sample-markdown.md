@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming Conference Appearances: October 2023
+title: Upcoming Conference Appearances October 2023
 subtitle: A list of my upcoming presentations for October 2023.
 tags: [Research][Conference Presentations]
 comments: false
