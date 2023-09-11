@@ -1,10 +1,12 @@
+
 ---
 layout: post
-title: Upcoming Conference Appearances October 2023
-subtitle: A list of my upcoming presentations for October 2023.
-gh-repo: drei558/drei588.github.io
-tags: [Research][Conference Presentations]
-comments: false
+title: Sample blog post to learn markdown tips
+subtitle: There's lots to learn!
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
 ---
 
 # SUNY OER Summit (October 12, 2023)
