@@ -15,6 +15,6 @@ I've written about Indigenous-centric UX Design in [_First Monday_](https://doi.
 As part my collaboration with Kristen Nyitray, Director of Special Collections and University Archives and University Archivist at Stony Brook Universtiy, I will present our Searching for Paumanok research published in _Cataloging & Classification Quarterly_ at the Long Island Library and Resources Council Annual Archives Conference in Old Westbury, NY on October 23rd. 
 
 You can read more about this research in our:
-* two-part article on [the study](https://commons.library.stonybrook.edu/library_articles/45/) and [methodology](https://commons.library.stonybrook.edu/library_articles/44/) published in _Cataloging & Classification Quarterly_ 
-* Native-lands.ca Blog Guest Post, "Using Native-Land.ca Data for Studying Indigenous Long Island, New York" [https://native-land.ca/using-native-land-ca-data-for-studying-indigenous-long-island-new-york/]
+  * two-part article on [the study](https://commons.library.stonybrook.edu/library_articles/45/) and [methodology](https://commons.library.stonybrook.edu/library_articles/44/) published in _Cataloging & Classification Quarterly_ 
+  * Native-lands.ca Blog Guest Post, "Using Native-Land.ca Data for Studying Indigenous Long Island, New York" [https://native-land.ca/using-native-land-ca-data-for-studying-indigenous-long-island-new-york/]
 
