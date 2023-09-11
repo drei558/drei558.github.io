@@ -2,6 +2,7 @@
 layout: post
 title: Upcoming Conference Appearances October 2023
 subtitle: A list of my upcoming presentations for October 2023.
+gh-repo: drei558/drei588.github.io
 tags: [Research][Conference Presentations]
 comments: false
 ---
