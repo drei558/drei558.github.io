@@ -6,6 +6,7 @@ gh-repo: drei558/drei588.github.io
 tags: [Research][Conference Presentations]
 comments: false
 ---
+
 # SUNY OER Summit (October 12, 2023)
 As part my collaboration with Kristen Nyitray, Director of Special Collections and University Archives and University Archivist at Stony Brook Universtiy, I will present a lighting talk on our UX Design of Indigenous Studies Guides research at the _State University of New York *SUNY Open Educational Summit_ on October 12, 2023. We [published our UX assessment framework](https://doi.org/10.5860/crl.83.6.1014) in _College & Research Libraries_ in 2022.
 
