@@ -19,7 +19,7 @@ Buffa, D., E.T. Thompson, K., **Reijerkerk, D.** et al. “Understanding Constra
 
 Knazook, B. et al. [_WorldFAIR Project Deliverable D13.2 Recommendations for Harmonising, Streamlining, or Improving Metadata and Semantics in the Cultural Heritage Image Sharing Landscape_](https://doi.org/10.5281/zenodo.7897244) White Paper. May 19, 2023. Dublin, Ireland: Digital Repository of Ireland. Grant No.: 101058393 WorldFAIR: Global cooperation on FAIR data policy and practice. 
 
-**Reijerkerk, D.**, Fried, R., and Mastrovita, M. "[Five Tips for Rapid Metadata Assessment](https://www.diglib.org/five-tips-for-rapid-metadata-assessment/),"Digital Library Federation Blog, May 15, 2023.
+**Reijerkerk, D.**, Fried, R., and Mastrovita, M. "[Five Tips for Rapid Metadata Assessment](https://www.diglib.org/five-tips-for-rapid-metadata-assessment/)," _Digital Library Federation Blog_, May 15, 2023.
 
 Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, August/September 2023). 
 
@@ -46,12 +46,12 @@ Nyitray, K. J. & Reijerkerk, D. “[Searching for Paumanok: Methodology for a St
 
 >“The underpinning principles and concepts presented throughout the book are applicable to any library area. In fact, the re-envisioning of libraries as learning organizations where change is expected and anticipated demands a supportive framework for training librarywide. Creating a culture of continuous learning enables staff to adapt and make changes quickly, in technical services and every other area of the library.” — Journal of Electronic Resources Librarianship, https://doi.org/10.1080/1941126X.2023.2197806 
 
-Mastrovita, M., **Reijerkerk, D.**, Fried, R., & Klose, A. “[Metadata During COVID – Part II](https://www.diglib.org/metadata-during-covid-part-ii/),” Digital Library Federation Blog, November 1, 2022.  
+Mastrovita, M., **Reijerkerk, D.**, Fried, R., & Klose, A. “[Metadata During COVID – Part II](https://www.diglib.org/metadata-during-covid-part-ii/),” _Digital Library Federation Blog_, November 1, 2022.  
 
-Mastrovita, M., **Reijerkerk, D.**, Fried, R. “[DLF AIG Metadata Assessment Series](https://www.diglib.org/dlf-aig-metadata-assessment-series/),” Digital Library Federation Blog, June 17, 2022. 
+Mastrovita, M., **Reijerkerk, D.**, Fried, R. “[DLF AIG Metadata Assessment Series](https://www.diglib.org/dlf-aig-metadata-assessment-series/),” _Digital Library Federation Blog_, June 17, 2022. 
 
 ## 2021
-Kretz, C., Payne, C., & **Reijerkerk, D.** “[Study Room Time Machine: Creating a Virtual Library Escape Game During COVID-19](https://doi.org/10.1080/10691316.2021.1975341).” College & Undergraduate Libraries 28, no.3-4 (2021): 273-295. 
+Kretz, C., Payne, C., & **Reijerkerk, D.** “[Study Room Time Machine: Creating a Virtual Library Escape Game During COVID-19](https://doi.org/10.1080/10691316.2021.1975341).” _College & Undergraduate Libraries_ 28, no.3-4 (2021): 273-295. 
 
 Reijerkerk, D. “[Open Access Mandates and Indigenous Materials: Ways to Ethically Collaborate](https://publications.mcn.edu/2020-scholars/).” In _What’s emerging in the field? Essays from the MCN 2020 VIRTUAL Scholarship Program Recipients_ (Museum Computer Network, 2021).
 
@@ -63,7 +63,7 @@ Nyitray, K. J. & **Reijerkerk, D.** “[Searching for Paumanok: A Study of Libra
 
 Berdini, A. et al. “[Remote Transfers and Site Visits for Born-Digital Collections: Reflections from the Field](https://www.diglib.org/remote-transfers-and-site-visits-for-born-digital-collections-reflections-from-the-field/),” _Digital Library Federation Blog_, October 21, 2021. 
 
-Nyitray, K. J. & **Reijerkerk, D.**, “[Using Native-Land.ca Data for Studying Indigenous Long Island, New York](https://native-land.ca/using-native-land-ca-data-for-studying-indigenous-long-island-new-york/).” Native-lands.ca Blog (Guest Post), September 27, 2021. 
+Nyitray, K. J. & **Reijerkerk, D.**, “[Using Native-Land.ca Data for Studying Indigenous Long Island, New York](https://native-land.ca/using-native-land-ca-data-for-studying-indigenous-long-island-new-york/).” _Native-lands.ca Blog_ (Guest Post), September 27, 2021. 
 
 ## 2020 and Earlier
 Reijerkerk, D. “[UX Design in Online Catalogs: Practical Issues with Implementing Traditional Knowledge (TK) Labels](https://doi.org/10.5210/fm.v25i8.10406).” _First Monday_ 25, no.8 (2020).
