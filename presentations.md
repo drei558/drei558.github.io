@@ -4,9 +4,11 @@ title: Presentations
 ---
 
 ## Upcoming
-Nyitray, K. J. & **Reijerkerk, D.** “Searching for Paumanok: Enhancing Access to Indigenous Long Island in Research Collections,” “Transcending Barriers: Opening Archives, Opening Minds.” *Long Island Library Resources Council Annual Archives Conference*, Old Westbury, New York, October 23, 2023.
+Nyitray, K. J. & **Reijerkerk, D.** “Searching for Paumanok: Enhancing Access to Indigenous Long Island in Research Collections,” “Transcending Barriers: Opening Archives, Opening Minds.” _Long Island Library Resources Council Annual Archives Conference_, Old Westbury, New York, October 23, 2023.
 
-**Reijerkerk, D.** “Indigenous Open Access Issues in Galleries, Libraries, Archives, and Museums (GLAMS),” Invited lecture. INFO 679 Museums & Digital Culture: Theory and Practice (3 credits), Pratt Institute School of Information, Sara DeYoung (instructor), October 12, 2023. 
+Nyitray, K. J. & **Reijerkerk, D.** “Embedding Decolonizing Methodologies in Open Educational Resources (OERs) for Indigenous Studies.” Lightning talk. _State University of New York *SUNY) Open Educational Resource (OER) Summit_, October 11 - 12, 2023. (virtual). 
+
+**Reijerkerk, D.** “Indigenous Open Access Issues in Galleries, Libraries, Archives, and Museums (GLAMS),” Invited lecture. _INFO 679 Museums & Digital Culture: Theory and Practice_ (3 credits), Pratt Institute School of Information, Sara DeYoung (instructor), October 12, 2023. 
 
 ## Invited Lectures
 **Reijerkerk, D.** & Nyitray, K. J. “Mind the (Training) Gap: Assessing Metadata Competences During a Multi-System Migration.” Invited lecture. *American Library Association Core Webinar Series. Hosted by Core: Leadership, Infrastructure, Futures.* July 19, 2023. Virtual. 
