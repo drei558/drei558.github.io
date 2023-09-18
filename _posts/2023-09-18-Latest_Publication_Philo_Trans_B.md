@@ -8,7 +8,7 @@ comments: false
 # About
 In my latest article, "[Understanding constraints to adaptation using a community-centred toolkit](https://doi.org/10.1098/rstb.2022.0391)," I discuss decolonizing ecological conservation adaptations to anthropomoric caused climate change in Indigenous communities. 
 
-In today's earth, Black, Indigenous, and Peoples of Color (BIPOC) communities do and will face the biggest challenges from human-caused climate change. Decolonization is the literal and metaphorical dismantling of systems of power. In the data field, decolonization can look like: 
+In today's world, Black, Indigenous, and Peoples of Color (BIPOC) communities do and will face the biggest challenges from human-caused climate change. Decolonization is the literal and metaphorical dismantling of systems of power. In the data field, decolonization can look like: 
 - renewing Indigenous community collaborations
 - asking/starting/revising/discontinuing research projects based on what a community does/does not want/need
 - data collection practices that adhere to local Indigenous protocols for privacy and sovereignty
