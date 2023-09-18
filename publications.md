@@ -9,7 +9,7 @@ I often write about the intersections and borders between technology and social 
 
 
 ## 2023
-Buffa, D., E.T. Thompson, K., **Reijerkerk, D.** et al. “Understanding Constraints to Adaptation Using a Community-Centered Toolkit,” _Philosophical Transactions of the Royal Society B: Biological Sciences_ 378, no.1889 (2023).
+Buffa, D., E.T. Thompson, K., **Reijerkerk, D.** et al. “[Understanding Constraints to Adaptation Using a Community-Centred Toolkit](https://doi.org/10.1098/rstb.2022.0391),” _Philosophical Transactions of the Royal Society B: Biological Sciences_ 378, no.1889 (2023).
 
 **Reijerkerk, D.** & Nyitray, K. J. “A Role by Any Other Name: A Content Analysis of Digital Asset Management on Library and Archives Job Boards,” _Journal of Digital Media Management_ 11, no.2 (2023): 180-189.
 
