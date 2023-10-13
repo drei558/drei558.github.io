@@ -4,13 +4,12 @@ title: Presentations
 ---
 
 ## Upcoming
-Nyitray, K. J. & **Reijerkerk, D.** “Searching for Paumanok: Enhancing Access to Indigenous Long Island in Research Collections,” “Transcending Barriers: Opening Archives, Opening Minds.” _Long Island Library Resources Council Annual Archives Conference_, Old Westbury, New York, October 23, 2023.
+Nyitray, K. J. & **Reijerkerk, D.** “Searching for Paumanok: Enhancing Access to Indigenous Long Island in Research Collections,” “Transcending Barriers: Opening Archives, Opening Minds.” Invited Keynote. _Long Island Library Resources Council Annual Archives Conference_, Old Westbury, New York, October 23, 2023.
 
-Nyitray, K. J. & **Reijerkerk, D.** “Embedding Decolonizing Methodologies in Open Educational Resources (OERs) for Indigenous Studies.” Lightning talk. _State University of New York *SUNY) Open Educational Resource (OER) Summit_, October 11 - 12, 2023. (virtual). 
-
-**Reijerkerk, D.** “Indigenous Open Access Issues in Galleries, Libraries, Archives, and Museums (GLAMS),” Invited lecture. _INFO 679 Museums & Digital Culture: Theory and Practice_ (3 credits), Pratt Institute School of Information, Sara DeYoung (instructor), October 12, 2023. 
 
 ## Invited Lectures
+**Reijerkerk, D.** “The Bureaucracies of Indigeneity and Open Access: Achieving and Undermining Change,” Invited lecture. _INFO 679 Museums & Digital Culture: Theory and Practice_ (3 credits), Pratt Institute School of Information, Sara DeYoung (instructor), October 12, 2023. (virtual).
+
 **Reijerkerk, D.** & Nyitray, K. J. “Mind the (Training) Gap: Assessing Metadata Competences During a Multi-System Migration.” Invited lecture. *American Library Association Core Webinar Series. Hosted by Core: Leadership, Infrastructure, Futures.* July 19, 2023. Virtual. 
 
 Nyitray, K. J. & **Reijerkerk, D.** “Librarian Mentorship through Mutual Scholarship: An Approach to Foster Higher Morale and Strengthen Collegiality.” Invited lecture. *ACRL/NY Professional Development Committee Fall 2022 Program*, September 30, 2022.
@@ -26,6 +25,8 @@ Nyitray, K. J. & **Reijerkerk, D.** “Librarian Mentorship through Mutual Schol
 **Reijerkerk, D.** “Indigenous religious traditions: Holistic practices, plants, roots, and Indigenous traditions”, Invited lecture. Human Development Undergraduate College Seminar: Varieties of Religion (1 credit), Reverend Brenda Ford (instructor), Stony Brook, NY, March 9, 2020. 
 
 ## Conference Presentations
+Nyitray, K. J. & **Reijerkerk, D.** “Embedding Decolonizing Methodologies in Open Educational Resources (OERs) for Indigenous Studies.” Lightning talk. _State University of New York *SUNY) Open Educational Resource (OER) Summit_, October 11 - 12, 2023. (virtual). 
+
 Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” Pre-recorded presentation. *IFLA World Library and Information Congress Satellite Session*, Delft University of Technology, Delft, Netherlands. August 18, 2023. 
 
 **Reijerkerk, D.** & Nyitray, K. J. “A Role by Any Other Name: Advertising and Recruiting for Digital Asset Management on Library and Archives Job Boards.” Lightning talk. *New York Archives Conference*. June 16, 2023. 
