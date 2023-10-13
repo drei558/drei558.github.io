@@ -7,6 +7,8 @@ My current research explores sociotechnical issues in data. I prioritize co-prod
 
 I often write about the intersections and borders between technology and social power structures using methods from data science, user interface and user experience design (UI/UX Design), decolonization, sociology, and psychology. 
 
+## 2024
+Nyitray, K. J. & **Reijerkerk, D.** “Librarian Mentorship through Mutual Scholarship: An Approach to Foster Higher Morale and Strengthen Collegiality,” In Monica D.T. Rysavy, Russel S. Michalak, Trevor A. Dawes, and Jon Cawthorne (eds.), _Toxic Cultures in Higher Education_ (ACRL Publications, 2024). Awaiting proofs.
 
 ## 2023
 Buffa, D., E.T. Thompson, K., **Reijerkerk, D.** et al. “[Understanding Constraints to Adaptation Using a Community-Centred Toolkit](https://doi.org/10.1098/rstb.2022.0391),” _Philosophical Transactions of the Royal Society B: Biological Sciences_ 378, no.1889 (2023).
@@ -24,8 +26,6 @@ Knazook, B. et al. [_WorldFAIR Project Deliverable D13.2 Recommendations for Har
 Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, August/September 2023). 
 
 **Reijerkerk, D.** & Nyitray, K. J. “More than Remotely Possible: Flexible Work Arrangements for Inclusive Recruitment and Retention of Academic Librarians.” In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2023).
-
-Nyitray, K. J. & **Reijerkerk, D.** “Librarian Mentorship through Mutual Scholarship: An Approach to Foster Higher Morale and Strengthen Collegiality,” In Monica D.T. Rysavy, Russel S. Michalak, Trevor A. Dawes, and Jon Cawthorne (eds.), _Toxic Cultures in Higher Education_ (ACRL Publications, 2023).
 
 Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2023).
 
