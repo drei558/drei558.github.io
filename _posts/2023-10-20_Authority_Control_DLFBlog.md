@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Issues in Authority Control DLF Blog Post
-tags: [Research]
+tags: [Research,Service]
 comments: false
 ---
 
