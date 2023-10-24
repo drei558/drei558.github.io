@@ -5,9 +5,8 @@ tags: [Research,Service]
 comments: false
 ---
 
-# About
-In my latest article, "[Understanding constraints to adaptation using a community-centred toolkit](https://doi.org/10.1098/rstb.2022.0391)," I discuss decolonizing ecological conservation adaptations to anthropomoric caused climate change in Indigenous communities. 
+I'm excited to promote my new best practices publication with my peers on the Digital Library Federation (DLF) Assessment Interest Group's (AIG) Metadata Working Group (MWG). In "[Issues in Authority Control: Case Studies in Name Authority Records and Platform User Experience Design](https://www.diglib.org/issues-in-authority-control-case-studies-in-name-authority-records-and-platform-user-experience-design/)," my esteemed colleagues disscuss data issues in Name Authority Records and how data impacts the user experience (UX) desgin of digital collections. 
 
-Many thanks to the Vezo people and my various international collaborators and co-authors, especially [Danielle C. Buffa](https://orcid.org/0000-0002-9478-8470) and [Katharine E.T. Thompson](https://orcid.org/0000-0002-5892-536X) for the invitation to co-write. 
+Many thanks to Hannah Tarver, Annamarie Klose, Mandy Mastrovita, and Rebecca Fried. I helped edit and proof the cases.
 
-# Article Abstract
+The [DLF Assessment Interest Group's (AIG) Metadata Working Group (MWG)](https://wiki.diglib.org/Assessment:Metadata) aims to build guidelines, best practices, tools and workflows around the evaluation and assessment of metadata used by and for digital libraries and repositories.
