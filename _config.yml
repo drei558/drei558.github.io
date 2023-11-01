@@ -20,10 +20,11 @@ author: Dana Reijerkerk
 ###############################################
 
 navbar-links:
-  About: "about"
+  About: "https://sites.google.com/view/danareijerkerk/about"
   Presentations: "presentations"
   Publications: "publications"
-  Data Science Projects: "projects"
+  Data Science Portfolio: "https://sites.google.com/view/danareijerkerk/data-science-portfolio"
+  Hire Me: "https://sites.google.com/view/danareijerkerk/services"
  
 
 ################
