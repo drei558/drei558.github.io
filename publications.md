@@ -10,9 +10,9 @@ I often write about the intersections and borders between technology and social 
 ## 2024
 Nyitray, K. J. & **Reijerkerk, D.** “Librarian Mentorship through Mutual Scholarship: An Approach to Foster Higher Morale and Strengthen Collegiality,” In Monica D.T. Rysavy, Russel S. Michalak, Trevor A. Dawes, and Jon Cawthorne (eds.), _Toxic Cultures in Higher Education_ (ACRL Publications, 2024). Awaiting proofs.
 
+## 2023
 Tarver, H., Klose A., Mastrovita, M. **Reijerkerk, D.**, and Fried, R. "[Issues in Authority Control: Case Studies in Name Authority Records and Platform User Experience Design](https://www.diglib.org/issues-in-authority-control-case-studies-in-name-authority-records-and-platform-user-experience-design/)," _Digital Library Federation Blog_, October 20, 2023.
 
-## 2023
 Buffa, D., E.T. Thompson, K., **Reijerkerk, D.** et al. “[Understanding Constraints to Adaptation Using a Community-Centred Toolkit](https://doi.org/10.1098/rstb.2022.0391),” _Philosophical Transactions of the Royal Society B: Biological Sciences_ 378, no.1889 (2023).
 
 **Reijerkerk, D.** & Nyitray, K. J. “A Role by Any Other Name: A Content Analysis of Digital Asset Management on Library and Archives Job Boards,” _Journal of Digital Media Management_ 11, no.2 (2023): 180-189.
