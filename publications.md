@@ -27,7 +27,7 @@ Knazook, B. et al. [_WorldFAIR Project Deliverable D13.2 Recommendations for Har
 
 Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, August/September 2023). 
 
-**Reijerkerk, D.** & Nyitray, K. J. “More than Remotely Possible: Flexible Work Arrangements for Inclusive Recruitment and Retention of Academic Librarians.” In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2023).
+**Reijerkerk, D.** & Nyitray, K. J. “Flexible Work Empowers: An Inclusive Strategy for Recruitment and Retention of Academic Libraries.” In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2023).
 
 Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2023).
 
