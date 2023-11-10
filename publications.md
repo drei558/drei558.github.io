@@ -2,15 +2,22 @@
 layout: page
 title: Publications
 ---
-My current research explores sociotechnical issues in data. I prioritize co-production of knowledge and collaborative writing.
-
-
-I often write about the intersections and borders between technology and social power structures using methods from data science, user interface and user experience design (UI/UX Design), decolonization, sociology, and psychology. 
+My current research explores sociotechnical issues in data. I prioritize co-production of knowledge and collaborative writing. I often write about the intersections and borders between technology and social power structures using methods from data science, user interface and user experience design (UI/UX Design), decolonization, sociology, and psychology. 
 
 ## 2024
 Nyitray, K. J. & **Reijerkerk, D.** “Librarian Mentorship through Mutual Scholarship: An Approach to Foster Higher Morale and Strengthen Collegiality,” In Monica D.T. Rysavy, Russel S. Michalak, Trevor A. Dawes, and Jon Cawthorne (eds.), _Toxic Cultures in Higher Education_ (ACRL Publications, 2024). Awaiting proofs.
 
+Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, August/September 2024). 
+
+**Reijerkerk, D.** & Nyitray, K. J. “Flexible Work Empowers: An Inclusive Strategy for Recruitment and Retention of Academic Libraries.” In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2024).
+
+Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2024).
+
 ## 2023
+**Reijerkerk, D.** & Nyitray, K. J., “Manifesting Que SeRA SeRA: Embedding Radical Acceptance (RA) in Trauma-Informed Academic Library Leadership,” In David Ketchum, ed., _Trauma-Informed Leadership in Libraries_ (Advances in Library Administration and Organization, 2025). Proposal in review. 
+
+**Reijerkerk, D.** & Reed, C. “Archives, Decolonization, and the Politics of Tribal Sovereignty: An Examination of Accessibility Barriers to Indigenous Federal Recognition Research in the United States,” _American Archivist_ 86, no.2 (December 2023).
+
 Tarver, H., Klose A., Mastrovita, M. **Reijerkerk, D.**, and Fried, R. "[Issues in Authority Control: Case Studies in Name Authority Records and Platform User Experience Design](https://www.diglib.org/issues-in-authority-control-case-studies-in-name-authority-records-and-platform-user-experience-design/)," _Digital Library Federation Blog_, October 20, 2023.
 
 Buffa, D., E.T. Thompson, K., **Reijerkerk, D.** et al. “[Understanding Constraints to Adaptation Using a Community-Centred Toolkit](https://doi.org/10.1098/rstb.2022.0391),” _Philosophical Transactions of the Royal Society B: Biological Sciences_ 378, no.1889 (2023).
@@ -24,16 +31,6 @@ Buffa, D., E.T. Thompson, K., **Reijerkerk, D.** et al. “[Understanding Constr
 Knazook, B. et al. [_WorldFAIR Project Deliverable D13.2 Recommendations for Harmonising, Streamlining, or Improving Metadata and Semantics in the Cultural Heritage Image Sharing Landscape_](https://doi.org/10.5281/zenodo.7897244) White Paper. May 19, 2023. Dublin, Ireland: Digital Repository of Ireland. Grant No.: 101058393 WorldFAIR: Global cooperation on FAIR data policy and practice. 
 
 **Reijerkerk, D.**, Fried, R., and Mastrovita, M. "[Five Tips for Rapid Metadata Assessment](https://www.diglib.org/five-tips-for-rapid-metadata-assessment/)," _Digital Library Federation Blog_, May 15, 2023.
-
-Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, August/September 2023). 
-
-**Reijerkerk, D.** & Nyitray, K. J. “Flexible Work Empowers: An Inclusive Strategy for Recruitment and Retention of Academic Libraries.” In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2023).
-
-Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2023).
-
-**Reijerkerk, D.** & Nyitray, K. J., “Manifesting Que SeRA SeRA: Embedding Radical Acceptance (RA) in Trauma-Informed Academic Library Leadership,” In David Ketchum, ed., _Trauma-Informed Leadership in Libraries_ (Advances in Library Administration and Organization, 2025). Proposal in review. 
-
-**Reijerkerk, D.** & Reed, C. “Archives, Decolonization, and the Politics of Tribal Sovereignty: An Examination of Accessibility Barriers to Indigenous Federal Recognition Research in the United States,” _American Archivist_ 86, no.2 (Fall/Winter 2023).
 
 ## 2022
 Nyitray, K. J. & **Reijerkerk, D.** “[From Pathfinder to Indigenized: An Assessment of LibGuides for Indigenous Studies by ARL Member Institutions](https://doi.org/10.5860/crl.83.6.1014),” _College & Research Libraries_ 83, no.6 (2022): 1014-1031.
