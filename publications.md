@@ -14,9 +14,7 @@ Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Stude
 Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2024).
 
 ## 2023
-**Reijerkerk, D.** & Nyitray, K. J., “Manifesting Que SeRA SeRA: Embedding Radical Acceptance (RA) in Trauma-Informed Academic Library Leadership,” In David Ketchum, ed., _Trauma-Informed Leadership in Libraries_ (Advances in Library Administration and Organization, 2025). Proposal in review. 
-
-**Reijerkerk, D.** & Reed, C. “Archives, Decolonization, and the Politics of Tribal Sovereignty: An Examination of Accessibility Barriers to Indigenous Federal Recognition Research in the United States,” _American Archivist_ 86, no.2 (December 2023).
+**Reijerkerk, D.** & Reed, C. “[Archives, Decolonization, and the Politics of Tribal Sovereignty: An Examination of Accessibility Barriers to Indigenous Federal Recognition Research in the United States](https://doi.org/10.17723/2327-9702-86.2.565),” _American Archivist_ 86, no.2 (2023).
 
 Tarver, H., Klose A., Mastrovita, M. **Reijerkerk, D.**, and Fried, R. "[Issues in Authority Control: Case Studies in Name Authority Records and Platform User Experience Design](https://www.diglib.org/issues-in-authority-control-case-studies-in-name-authority-records-and-platform-user-experience-design/)," _Digital Library Federation Blog_, October 20, 2023.
 
