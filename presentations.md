@@ -6,6 +6,12 @@ title: Presentations
 ## Upcoming
 Untitled presentation on my LEADING fellowship research. _Black Art Digital Humanities Symposium_ at Temple University Libraries, Philadelphia, PA. March 28, 2024. 
 
+**Reijerkerk, D.** & Keeton, k. "The Relational Possibilities Data Art Project: Remixing, Decolonizing, and Connecting Digital Community Archives and Data Science." _Bitcurator Forum_, March 18-22, 2024. (virtual).
+
+**Reijerkerk, D.** & Keeton, k. "Relational Possibilities: A Remix of Aesthetic Forms Through Indigeneity and Blackness." Invited lecture. University of North Texas School of Information. Spring 2024. (virtual). 
+
+**Reijerkerk, D.** & Keeton, k. "Relational Possibilities: A Remix of Aesthetic Forms Through Indigeneity and Blackness." Invited lecture. Columbia University. Spring 2024. (virtual). 
+
 ## Invited Lectures
 **Reijerkerk, D.** “The Bureaucracies of Indigeneity and Open Access: Achieving and Undermining Change,” Invited lecture. _INFO 679 Museums & Digital Culture: Theory and Practice_ (3 credits), Pratt Institute School of Information, Sara DeYoung (instructor), October 12, 2023. (virtual).
 
