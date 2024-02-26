@@ -8,7 +8,7 @@ I saw a call for help with data analysis last year in my email, so I joined up! 
 
 I spent a lot of creative capital with these three women from across the East Coast for almost 12 months! I hope we work together again in the future. I liked how we sandboxed our ideas and found ways to make the costs of digitizing cultural heritage digestible and fun to read.
 
-![Gif of Final DLF Report](https://drei558.github.io/assets/DLF_SurveyProject_Promo1.gif)
+![Gif of Final DLF Report](https://drei558.github.io/assets/DLF_SurveyProject_Promo1_V2.gif)
 
 The full report and Looker dashboard will be uploaded to OSF in the next few weeks. Stay tuned for more development news by following my blog and [my Instagram](https://www.instagram.com/decolfutures/)!
 
