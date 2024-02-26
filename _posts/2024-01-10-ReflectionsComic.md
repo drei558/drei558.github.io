@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflections of a Data Professional Comic
-tags: [Comic,Writing]
+tags: [Comic,Graphic Design,Writing]
 comments: false
 ---
 As I experiment with graphic design and visuals, check out this reflection comic:
