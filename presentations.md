@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Presentations
+title: Public Speaking
 ---
 
 ## Upcoming
-Untitled presentation on my LEADING fellowship research. _Black Art Digital Humanities Symposium_ at Temple University Libraries, Philadelphia, PA. March 28, 2024. 
+**Reijerkerk, D.** and Keeton, k. “Relational Possibilities: Using Generative Artificial Intelligence in Artful Digital Storytelling with Black and Indigenous Aesthetic Forms,” _Interactive Film and Media Virtual Conference_, June 12-14, 2024. Accepted.
 
-**Reijerkerk, D.** & Keeton, k. "The Relational Possibilities Data Art Project: Remixing, Decolonizing, and Connecting Digital Community Archives and Data Science." _Bitcurator Forum_, March 18-22, 2024. (virtual).
+**Reijerkerk, D.** & Keeton, k. "The Relational Possibilities Data Art Project: Remixing, Decolonizing, and Connecting Digital Community Archives and Data Science" _BitCurator Forum_, March 18-22, 2024. (virtual).
 
 **Reijerkerk, D.** & Keeton, k. "Relational Possibilities: A Remix of Aesthetic Forms Through Indigeneity and Blackness." Invited lecture. University of North Texas School of Information. Spring 2024. (virtual). 
 
