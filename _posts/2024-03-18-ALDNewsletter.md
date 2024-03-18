@@ -7,7 +7,7 @@ comments: true
 In December 2023, I became a Collaborative Partner of [ART | library deco](https://artlibrarydeco.space/), an online African American virtual art library, digital gallery, and repository. As the Associate Director and Deputy Library Curator, I am responsible for the creative organization and direction of the art library gallery. 
 
 I'm currently working on monthly newsletters and web comics. 
-![March 2024 edition of ALD newsletter'](https://drei558.github.io/assets/ALD_NewsletterNo.2_Promo_V2_240318.mp4)
+![March 2024 edition of ALD newsletter'](https://drei558.github.io/assets/ALD_NewsletterNo.2_Promo_V2_240318.gif)
 
 I titled the comic #StillBlackSee (punny, I know lol) - and it's so much fun to sandbox graphic design and digital storytelling that's creative yet commercial. 
 ![March 2024 edition of Still Black See'](https://drei558.github.io/assets/StillBlackSee240318.gif)
