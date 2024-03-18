@@ -4,6 +4,7 @@ title: Check out my latest webcomic and the ART | library deco newsletter
 tags: [Comic, Newsletter, ARTlibrarydeco, BGLAM]
 comments: true
 ---
+
 In December 2023, I became a Collaborative Partner of [ART | library deco](https://artlibrarydeco.space/), an online African American virtual art library, digital gallery, and repository. As the Associate Director and Deputy Library Curator, I am responsible for the creative organization and direction of the art library gallery. 
 
 I'm currently working on monthly newsletters and web comics.  
