@@ -5,9 +5,8 @@ tags: [Comic, Newsletter, ARTlibrarydeco, BGLAM]
 comments: true
 ---
 
-In December 2023, I became a Collaborative Partner of [ART | library deco](https://artlibrarydeco.space/), an online African American virtual art library, digital gallery, and repository. As the Associate Director and Deputy Library Curator, I am responsible for the creative organization and direction of the art library gallery. 
+In December 2023, I became a Collaborative Partner of [_ART | library deco_](https://artlibrarydeco.space/), an online African American virtual art library, digital gallery, and repository. I'm currently working on monthly newsletters and web comics.  
 
-I'm currently working on monthly newsletters and web comics.  
 ![March 2024 edition of ALD newsletter'](https://drei558.github.io/assets/ALDNewsletterPromo240318.gif)
 
 It's so much fun to sandbox graphic design and digital storytelling that's creative yet commercial. 
