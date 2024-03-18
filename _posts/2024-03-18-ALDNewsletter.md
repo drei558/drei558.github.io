@@ -9,7 +9,7 @@ In December 2023, I became a Collaborative Partner of [ART | library deco](https
 I'm currently working on monthly newsletters and web comics. 
 ![March 2024 edition of ALD newsletter'](https://drei558.github.io/assets/ALD_NewsletterNo.2_Promo_V2_240318.gif)
 
-I titled the comic #StillBlackSee (punny, I know lol) - and it's so much fun to sandbox graphic design and digital storytelling that's creative yet commercial. 
+It's so much fun to sandbox graphic design and digital storytelling that's creative yet commercial. 
 ![March 2024 edition of Still Black See'](https://drei558.github.io/assets/StillBlackSee240318.gif)
 
 Stay tuned for more development news by following my blog!
