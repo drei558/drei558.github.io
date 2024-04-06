@@ -5,13 +5,17 @@ title: Publications
 My current research explores sociotechnical issues in data. I prioritize co-production of knowledge and collaborative writing. I often write about the intersections and borders between technology and social power structures using methods from data science, user interface and user experience design (UI/UX Design), decolonization, sociology, and psychology. 
 
 ## 2024
-Nyitray, K. J. & **Reijerkerk, D.** “Librarian Mentorship through Mutual Scholarship: An Approach to Foster Higher Morale and Strengthen Collegiality,” In Monica D.T. Rysavy, Russel S. Michalak, Trevor A. Dawes, and Jon Cawthorne (eds.), _Toxic Cultures in Higher Education_ (ACRL Publications, 2024). Awaiting proofs.
+**Reijerkerk, D.** "The Creative CoLab, Artificial Intelligence, and Web Comics at ART | library deco," _Metropolitan Archivist_. Forthcoming.
 
-Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, August/September 2024). 
+Nyitray, K. J. & **Reijerkerk, D.** “Librarian Mentorship through Mutual Scholarship: An Approach to Foster Higher Morale and Strengthen Collegiality,” In Monica D.T. Rysavy, Russel S. Michalak, Trevor A. Dawes, and Jon Cawthorne (eds.), _Toxic Cultures in Higher Education_ (ACRL Publications, 2024). Forthcoming.
 
-**Reijerkerk, D.** & Nyitray, K. J. “Flexible Work Empowers: An Inclusive Strategy for Recruitment and Retention of Academic Libraries.” In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2024).
+Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, August/September 2024). Forthcoming.
 
-Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2024).
+**Reijerkerk, D.** & Nyitray, K. J. “Flexible Work Empowers: An Inclusive Strategy for Recruitment and Retention of Academic Libraries.” In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2024). Forthcoming.
+
+Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2024). Forthcoming.
+
+**Reijerkerk, D.**, Preate, S. M., Deane, C., and Willis, S. [Evaluating the State of the Cultural Heritage Field: Costs of Digitizing Still Images - Summary Report and Key Findings, Digital Library Federation Assessment Interest Group Costs of Digitization Subgroup](https://osf.io/2n7wc) 
 
 ## 2023
 **Reijerkerk, D.** & Reed, C. “[Archives, Decolonization, and the Politics of Tribal Sovereignty: An Examination of Accessibility Barriers to Indigenous Federal Recognition Research in the United States](https://doi.org/10.17723/2327-9702-86.2.565),” _American Archivist_ 86, no.2 (2023).
