@@ -5,15 +5,17 @@ title: Publications
 My current research explores sociotechnical issues in data. I prioritize co-production of knowledge and collaborative writing. I often write about the intersections and borders between technology and social power structures using methods from data science, user interface and user experience design (UI/UX Design), decolonization, sociology, and psychology. 
 
 ## 2024
-**Reijerkerk, D.** "The Creative CoLab, Artificial Intelligence, and Web Comics at ART | library deco," _Metropolitan Archivist_. Forthcoming.
-
-Nyitray, K. J. & **Reijerkerk, D.** “Librarian Mentorship through Mutual Scholarship: An Approach to Foster Higher Morale and Strengthen Collegiality,” In Monica D.T. Rysavy, Russel S. Michalak, Trevor A. Dawes, and Jon Cawthorne (eds.), _Toxic Cultures in Higher Education_ (ACRL Publications, 2024). Forthcoming.
+**Reijerkerk, D.** "The Creative CoLab, Artificial Intelligence, and Web Comics at ART | library deco," _Metropolitan Archivist_ (July 2024 issue). Forthcoming.
 
 Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, August/September 2024). Forthcoming.
 
 **Reijerkerk, D.** & Nyitray, K. J. “Flexible Work Empowers: An Inclusive Strategy for Recruitment and Retention of Academic Libraries.” In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2024). Forthcoming.
 
 Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2024). Forthcoming.
+
+**Reijerkerk, D.** "Learn About the Relational Possibilities of Generative AI and Data Literacy," _Biblio-Notes_ (Spring 2024 issue). Forthcoming. 
+
+Nyitray, K. J. & **Reijerkerk, D.** “[Librarian Mentorship through Mutual Scholarship: An Approach to Foster Higher Morale and Strengthen Collegiality](https://zenodo.org/doi/10.5281/zenodo.11048164),” In Monica D.T. Rysavy, Russel S. Michalak, Trevor A. Dawes, and Jon Cawthorne (eds.), _Toxic Cultures in Higher Education_ (ACRL Publications, 2024). 
 
 **Reijerkerk, D.**, Preate, S. M., Deane, C., and Willis, S. [Evaluating the State of the Cultural Heritage Field: Costs of Digitizing Still Images - Summary Report and Key Findings, Digital Library Federation Assessment Interest Group Costs of Digitization Subgroup](https://osf.io/2n7wc) 
 
@@ -43,9 +45,11 @@ Nyitray, K. J. & Reijerkerk, D. “[Searching for Paumanok: Methodology for a St
 
 **Reijerkerk, D.** & Nyitray, K. J. “Mind the (Training) Gap: A Case Study in Assessing Metadata Competences by Transforming Records for a Multi-System Migration.” In Marlee D. Givens and Sofia Slutskaya (eds.), _Transforming Technical Services through Training and Development_ (ALA Editions, 2022). 
 
->“Well-researched and written, this slim volume delivers an excellent starting point for any library considering designing or reimagining a training program or project.” – Linda Frederiksen, Library Journal reviews, March 2023
+>"Most technical service areas accept the need for training, but the quality of that training can vary markedly. While budgets are a factor, they are only part of the bigger picture and this book demonstrates that training can be addressed without being defined by budget limitations." - Catherine Gilbert, _Journal of the Australian Library and Information Association_, April 2024
 
->“The underpinning principles and concepts presented throughout the book are applicable to any library area. In fact, the re-envisioning of libraries as learning organizations where change is expected and anticipated demands a supportive framework for training librarywide. Creating a culture of continuous learning enables staff to adapt and make changes quickly, in technical services and every other area of the library.” — Journal of Electronic Resources Librarianship, https://doi.org/10.1080/1941126X.2023.2197806 
+>“Well-researched and written, this slim volume delivers an excellent starting point for any library considering designing or reimagining a training program or project.” – Linda Frederiksen, _Library Journal reviews_, March 2023
+
+>“The underpinning principles and concepts presented throughout the book are applicable to any library area. In fact, the re-envisioning of libraries as learning organizations where change is expected and anticipated demands a supportive framework for training librarywide. Creating a culture of continuous learning enables staff to adapt and make changes quickly, in technical services and every other area of the library.” — _Journal of Electronic Resources Librarianship_, https://doi.org/10.1080/1941126X.2023.2197806 
 
 Mastrovita, M., **Reijerkerk, D.**, Fried, R., & Klose, A. “[Metadata During COVID – Part II](https://www.diglib.org/metadata-during-covid-part-ii/),” _Digital Library Federation Blog_, November 1, 2022.  
 
