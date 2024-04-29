@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Play as a cozy game (I do non-horror now)!
+title: Play a cozy game (I do non-horror now)!
 tags: [Video Game, Game Jam,Dev Log]
 comments: true
 ---
