@@ -2,16 +2,16 @@
 layout: page
 title: Freelance and Academic Writing
 ---
-My current research explores sociotechnical issues in data. I prioritize co-production of knowledge and collaborative writing. I often write about the intersections and borders between technology and social power structures using methods from data science, user interface and user experience design (UI/UX Design), decolonization, sociology, and psychology. 
+My current research explores sociotechnical issues in data and often write about the intersections and borders between technology and social power structures using methods from data science, user interface and user experience design (UI/UX Design), decolonization, sociology, and psychology. 
 
 ## 2024
 **Reijerkerk, D.** "The Creative CoLab, Artificial Intelligence, and Web Comics at ART | library deco," _Metropolitan Archivist_ (July 2024 issue). Forthcoming.
 
-Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, August/September 2024). Forthcoming.
+Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, 2024). Forthcoming.
 
 **Reijerkerk, D.** & Nyitray, K. J. “Flexible Work Empowers: An Inclusive Strategy for Recruitment and Retention of Academic Libraries.” In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2024). Forthcoming.
 
-Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2024). Forthcoming.
+Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2024). Forthcoming in December.
 
 **Reijerkerk, D.** "Learn About the Relational Possibilities of Generative AI and Data Literacy," _Biblio-Notes_ (Spring 2024 issue). Forthcoming. 
 
