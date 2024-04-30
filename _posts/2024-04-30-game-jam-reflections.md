@@ -10,7 +10,9 @@ In my first game jam, I made "The Creatures From Below," a short Visual Novel fr
 
 I actually joined my first game jam late - the final game was due in 2 days so I went solo and found free assets in the store. Writing fiction comes easy to me! I whipped up the plot and struggled to figured out how to best make this a good visual novel. In the final version - the SFX and music made the game scary.
 
-I pushed myself for the other jams to make a team game! I competed in two jams at once in mid-April: the Cozy Spring Jam and Beginner's Game Jam. Both were low stakes and I had a large group of 5 or more people. I has a lot of fun doing the art for the Beginner's Jam. I bought a new sketchbook and had fun drawing! Here are some concept sketches that transformed into the fuller game.
+I pushed myself for the other jams to make a team game! I competed in two jams at once in mid-April: the Cozy Spring Jam and Beginner's Game Jam. Both were low stakes and I had a large group of 5 or more people. I has a lot of fun doing the art for the Beginner's Jam. I bought a new sketchbook and had fun drawing! Here are some concept sketches that transformed into the fuller game:
+
+![Concept art for It Burrows, a video game](https://drei558.github.io/assets/img/It_Burrows_Collage.png)
 
 Now I'm entering my 4th game jam of the month to make a Josei horror visual novel. I've recruited 17 - yes, **17 people** to make this game with me, including voice acting!!!
 
