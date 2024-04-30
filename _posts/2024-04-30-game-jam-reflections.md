@@ -18,4 +18,4 @@ Now I'm entering my 4th game jam of the month to make a Josei horror visual nove
 
 Until next time...
 
-You can play all the games I made so far for free on itchio at https://decolfutures.itch.io/
+You can play all the games I made so far for free on itchio at [https://decolfutures.itch.io/](https://decolfutures.itch.io/)
