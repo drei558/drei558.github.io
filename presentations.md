@@ -8,8 +8,6 @@ Nyitray, K.J. & **Reijerkerk, D.** "Prophesying AI: Archivists’ Emotional Labo
 
 **Reijerkerk, D.** and Keeton, k. “Relational Possibilities: Using Generative Artificial Intelligence in Artful Digital Storytelling with Black and Indigenous Aesthetic Forms,” _Interactive Film and Media Virtual Conference_, June 12-14, 2024. Accepted.
 
-**Reijerkerk, D.** & Keeton, k. "Relational Possibilities: A Remix of Aesthetic Forms Through Indigeneity and Blackness." Invited lecture. Columbia University. Spring 2024. (virtual). 
-
 ## Invited Lectures
 **Reijerkerk, D.** & Keeton, K. "The Relational Possibilities Data Art Project: Remixing, Decolonizing, and Connecting Digital Community Archives and Data Science," Invited Presentation,  Department of Information, University of North Texas, April 26, 2024. (virtual).
 
