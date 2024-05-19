@@ -13,7 +13,7 @@ Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Stude
 
 Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2024). Forthcoming in December.
 
-**Reijerkerk, D.** "Learn About the Relational Possibilities of Generative AI and Data Literacy," _Biblio-Notes_ (Spring 2024 issue). Forthcoming. 
+**Reijerkerk, D.** "[Learn About the Relational Possibilities of Generative AI and Data Literacy](https://www.ala.org/sites/default/files/2024-05/Biblio-NotesSpring2024-1.pdf)," _Biblio-Notes_ 23 (Spring 2024).  
 
 Nyitray, K. J. & **Reijerkerk, D.** “[Librarian Mentorship through Mutual Scholarship: An Approach to Foster Higher Morale and Strengthen Collegiality](https://zenodo.org/doi/10.5281/zenodo.11048164),” In Monica D.T. Rysavy, Russel S. Michalak, Trevor A. Dawes, and Jon Cawthorne (eds.), _Toxic Cultures in Higher Education_ (ACRL Publications, 2024). 
 
