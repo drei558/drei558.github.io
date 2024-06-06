@@ -1,7 +1,7 @@
 ---
 layout: post
-title: I Won the SAA Fellows' Ernst Posner Award For My Writing
-tags: [Award,Writing]
+title: I'm a data freelancer and consultant who provides sociotechnical services
+tags: [Services]
 comments: true
 ---
 I offer creative digital solutions in digital asset management, data migrations, and UX/UI Design for data-driven projects.
