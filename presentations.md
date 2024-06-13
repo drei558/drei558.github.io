@@ -38,7 +38,7 @@ Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Stude
 
 **Reijerkerk, D.** & Nyitray, K. J. “A Role by Any Other Name: Advertising and Recruiting for Digital Asset Management on Library and Archives Job Boards.” Lightning talk. *New York Archives Conference*. June 16, 2023. 
 
-**Reijerkerk, D.** & Nyitray, K. J. “Reality Bytes: Strategies for Evaluating and Communicating the Virtual Realities of Digital Repositories.” Presentation, *Southern Miss Institutional Repository Conference*, University of Southern Mississippi. April 27-28, 2023. [Open access] (https://aquila.usm.edu/smirc/2023/1/17/)
+**Reijerkerk, D.** & Nyitray, K. J. “Reality Bytes: Strategies for Evaluating and Communicating the Virtual Realities of Digital Repositories.” Presentation, *Southern Miss Institutional Repository Conference*, University of Southern Mississippi. April 27-28, 2023. [Open access link](https://aquila.usm.edu/smirc/2023/1/17/)
 
 Nyitray, K. J. & **Reijerkerk, D.** “Archives Unmasked: Transforming the Lone Arranger through Inclusivity and Trust.” Presentation, *Archivists Round Table of Metropolitan New York Symposium*. January 26-27, 2023. 
 
@@ -46,7 +46,7 @@ Nyitray, K. J. & **Reijerkerk, D.** “Radical Acceptance in the Archive: Emotio
 
 Nyitray, K. J., **Reijerkerk D.**, & Sapon-White, R. “Without Warrant: Strategies for Remedying LOC’s Exclusion of Indigenous Communities in New York and Oregon,” Presentation, *ACRL Rare Books and Manuscripts Section Conference, “What Now? Reflection, Reckoning, and Recovery,”* New Haven, CT, June 23, 2022. 
 
-Nyitray, K. J. & **Reijerkerk, D.** “Digital Repository Legacies: A Case Study in Assessing Organizational Trustworthiness.” Presentation, *Northeast Institutional Repository Day*, December 2, 2021. [Open access link] (https://repository.escholarship.umassmed.edu/handle/20.500.14038/37462) 
+Nyitray, K. J. & **Reijerkerk, D.** “Digital Repository Legacies: A Case Study in Assessing Organizational Trustworthiness.” Presentation, *Northeast Institutional Repository Day*, December 2, 2021. [Open access link](https://repository.escholarship.umassmed.edu/handle/20.500.14038/37462) 
 
 Reed, C.  & **Reijerkerk, D.** “Building a Culture of Empathy During a Pandemic.” Presentation, *SUNYLA Annual Conference*, June 17, 2021. 
 
@@ -66,9 +66,9 @@ Gilbert, S., Levatino, K., Reed, C., **Reijerkerk, D.**, & Werginz, R. “Employ
 Lin, Y. & **Reijerkerk, D.** “Inspiring and Engaging Students to Learn Through Project-Based Learning,” Presentation, *National Chinese Language Conference*. Chicago, IL, 2016.
 
 ## Poster Presentations
-**Reijerkerk, D.** & Nyitray, K. J. “More than Remotely Possible: Flexible Work Arrangements for Inclusive Recruitment and Retention of Academic Librarians.” Virtual Poster. *Society of American Archivists Research Forum at Archives*Records, Joint Annual Meeting of the Council of State Archivists and the Society of American Archivists*, July 12-19, 2023. [Open access link] (https://www2.archivists.org/am2023/research-forum-2023/agenda#posters)
+**Reijerkerk, D.** & Nyitray, K. J. “More than Remotely Possible: Flexible Work Arrangements for Inclusive Recruitment and Retention of Academic Librarians.” Virtual Poster. *Society of American Archivists Research Forum at Archives*Records, Joint Annual Meeting of the Council of State Archivists and the Society of American Archivists*, July 12-19, 2023. [Open access link](https://www2.archivists.org/am2023/research-forum-2023/agenda#posters)
 
-Nyitray, K. J. & **Reijerkerk, D.** “From Pathfinder to Indigenized: An Assessment of LibGuides for Indigenous Studies by ARL Member Institutions.” Virtual Poster. *Society of American Archivists Research Forum at Archives*Records, Joint Annual Meeting of the Council of State Archivists and the Society of American Archivists*, July 12-19, 2023.[Open access link] (https://www2.archivists.org/am2023/research-forum-2023/agenda#posters) 
+Nyitray, K. J. & **Reijerkerk, D.** “From Pathfinder to Indigenized: An Assessment of LibGuides for Indigenous Studies by ARL Member Institutions.” Virtual Poster. *Society of American Archivists Research Forum at Archives*Records, Joint Annual Meeting of the Council of State Archivists and the Society of American Archivists*, July 12-19, 2023.[Open access link](https://www2.archivists.org/am2023/research-forum-2023/agenda#posters) 
 
 **Reijerkerk, D.** & Reed, C. “Mutual Aid through Mindfulness: Building Morale Through Partnerships.” Lightning poster presentation, *ACRL/NY Symposium “Collegiality, Morale, and Mutual Aid” (Virtual)*, Dec 2 -3, 2021. 
 
