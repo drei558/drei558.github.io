@@ -22,6 +22,8 @@ Nyitray, K. J. & **Reijerkerk, D.** “[Librarian Mentorship through Mutual Scho
 ## 2023
 **Reijerkerk, D.** & Reed, C. “[Archives, Decolonization, and the Politics of Tribal Sovereignty: An Examination of Accessibility Barriers to Indigenous Federal Recognition Research in the United States](https://doi.org/10.17723/2327-9702-86.2.565),” _American Archivist_ 86, no.2 (2023).
 
+>Awarded the Society of American Archivists' Fellows' Ernst Posner Award. This competitive prestigious award is given to an “outstanding essay dealing with some facet of archival administration, history, theory, and/or methodology that was published during the preceding year in _The American Archivist_.
+
 Tarver, H., Klose A., Mastrovita, M. **Reijerkerk, D.**, and Fried, R. "[Issues in Authority Control: Case Studies in Name Authority Records and Platform User Experience Design](https://www.diglib.org/issues-in-authority-control-case-studies-in-name-authority-records-and-platform-user-experience-design/)," _Digital Library Federation Blog_, October 20, 2023.
 
 Buffa, D., E.T. Thompson, K., **Reijerkerk, D.** et al. “[Understanding Constraints to Adaptation Using a Community-Centred Toolkit](https://doi.org/10.1098/rstb.2022.0391),” _Philosophical Transactions of the Royal Society B: Biological Sciences_ 378, no.1889 (2023).
