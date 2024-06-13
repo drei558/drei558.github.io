@@ -61,6 +61,7 @@ Mastrovita, M., **Reijerkerk, D.**, Fried, R. “[DLF AIG Metadata Assessment Se
 Kretz, C., Payne, C., & **Reijerkerk, D.** “[Study Room Time Machine: Creating a Virtual Library Escape Game During COVID-19](https://doi.org/10.1080/10691316.2021.1975341).” _College & Undergraduate Libraries_ 28, no.3-4 (2021): 273-295. 
 
 Reijerkerk, D. “[Open Access Mandates and Indigenous Materials: Ways to Ethically Collaborate](https://publications.mcn.edu/2020-scholars/).” In _What’s emerging in the field? Essays from the MCN 2020 VIRTUAL Scholarship Program Recipients_ (Museum Computer Network, 2021).
+> Awarded a Museum Computer Network Fellowship for this piece.
 
 Nyitray, K. J. & **Reijerkerk, D.** “[Digital Repository Legacies: A Case Study in Assessing Organizational Trustworthiness](https://doi.org/10.1080/01930826.2021.1972729),” _Journal of Library Administration_ 61, no.7 (2021): 793-812. 
 
