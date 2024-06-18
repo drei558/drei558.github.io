@@ -8,4 +8,4 @@ From 2019 - 2023 I presented at the top venues in the data field about practical
 
 It can be challenging to figure out how to present and communicate your work. I made a template to help you! It's perfect for professionals in corporate, museums, archives, libraries, and not-for-profits wanting to assess, evaluate, and communicate findings about your digital asset management work.
 
-For $10, you get an editable report template, a FAQ with answers to top questions for your organization's leaders, and two comprehensive data assessment methods. Grab a copy for yourself on (my ko-fi)[https://ko-fi.com/s/42785ce4d1].
+For $10, you get an editable report template, a FAQ with answers to top questions for your organization's leaders, and two comprehensive data assessment methods. Grab a copy for yourself on [my ko-fi](https://ko-fi.com/s/42785ce4d1).
