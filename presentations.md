@@ -6,6 +6,8 @@ title: Public Speaking
 ## Upcoming
 Nyitray, K.J. & **Reijerkerk, D.** "Prophesying AI: Archivists’ Emotional Labor and the Duality of Public Encounters and Private Personas in the Archive," _Digital Public History in a Divided World: Stories, Collaborations, Complexities, Futures_, Centre for Public History, Queen's University Belfast Annual Conference, September 12-13, 2024. Virtual. 
 
+**Reijerkerk, D.** and Keeton, k. "Relational Possibilities: Using Generative AI in Artful Digital Storytelling with Black and Indigenous Aesthetic Forms," Workshop, _Virtual Digital Library Federation Forum_, October 22 - 23, 2024. Accepted
+
 ## Invited Lectures
 **Reijerkerk, D.** & Keeton, K. "The Relational Possibilities Data Art Project: Remixing, Decolonizing, and Connecting Digital Community Archives and Data Science," Invited Presentation,  Department of Information, University of North Texas, April 26, 2024. (virtual).
 
