@@ -2,7 +2,7 @@
 layout: page
 title: Freelance and Academic Writing
 ---
-I research sociotechnical issues in data and often write about the intersections and borders between technology and social power structures using methods from data science, user interface and user experience design (UI/UX Design), decolonization, sociology, and psychology. 
+I write freelance and research pieces on sociotechnical issues in data and the intersections and borders between technology and social power structures. My work appears in blogs, magazines, newsletters, and academic publications. 
 
 ## 2024
 **Reijerkerk, D.** "The Creative CoLab, Artificial Intelligence, and Web Comics at ART | library deco," _Metropolitan Archivist_ (July 2024 issue). Forthcoming.
