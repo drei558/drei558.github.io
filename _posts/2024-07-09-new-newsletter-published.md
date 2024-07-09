@@ -1,6 +1,6 @@
 ---
 layout: post
-title: July Issue of DecolFutures Newsletter is Now Out
+title: July Issue of the DecolFutures Newsletter is Now Out
 tags: [Newsletter, Writing]
 comments: true
 ---
