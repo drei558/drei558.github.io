@@ -5,8 +5,6 @@ title: Freelance and Academic Writing
 I write freelance and research pieces on sociotechnical issues in data and the intersections and borders between technology and social power structures. My work appears in blogs, magazines, newsletters, and academic publications. 
 
 ## Forthcoming
-**Reijerkerk, D.** "The Creative CoLab, Artificial Intelligence, and Web Comics at ART | library deco," _Metropolitan Archivist_ (July 2024 issue). Forthcoming.
-
 Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Students with Primary Sources.” In Prudence W. Dalrymple, Heather Todd, Luisa Marquardt, and Charles Wanjala (eds.), _Libraries Empowering Society through Digital Literacy_ (IFLA/De Gruyter Publications Series, 2024). Forthcoming.
 
 **Reijerkerk, D.** & Nyitray, K. J. “Flexible Work Empowers: An Inclusive Strategy for Recruitment and Retention of Academic Libraries.” In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2024). Forthcoming.
@@ -14,6 +12,7 @@ Nyitray, K. J. & **Reijerkerk, D.** “Transliteracy in Archives: Engaging Stude
 Nyitray, K. J. & **Reijerkerk, D.** “Archivists and Emotional Labor: Processing Personas and Personal Identities in Archives,” In Valeria Vanesio and Ilaria Scaglia (eds.), _Archives and Emotions_ (London: Bloomsbury, 2024). Forthcoming in December.
 
 ## 2024
+**Reijerkerk, D.** "[The Creative CoLab, Artificial Intelligence, and Web Comics at ART | library deco](https://medium.com/metropolitan-archivist/the-creative-colab-artificial-intelligence-and-webcomics-at-art-library-deco-5893da1fe17d)," _Metropolitan Archivist_ (July 2024 issue). 
 
 **Reijerkerk, D.** "[Learn About the Relational Possibilities of Generative AI and Data Literacy](https://www.ala.org/sites/default/files/2024-05/Biblio-NotesSpring2024-1.pdf)," _Biblio-Notes_ 23 (Spring 2024).  
 
