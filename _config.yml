@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: decolFutures Blog
+title: The decolFutures Blog
 
 # Your name to show in the footer
 author: Dana Reijerkerk
@@ -101,7 +101,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "data science,digital asset manager,freelancer,freelance,contractor,data consultant"
+keywords: "data science,digital asset manager,data freelancer,indie video games,data consultant,dana reijerkerk"
 
 ######################################
 # --- Colours / background image --- #
@@ -109,14 +109,14 @@ keywords: "data science,digital asset manager,freelancer,freelance,contractor,da
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FFFFFF" 
+navbar-col: "#E8F0F0" 
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#E8F0F0" 
 text-col: "#404040"
 link-col: "#008AFF" 
 hover-col: "#0085A1"
-footer-col: "#FFFFFF" 
+footer-col: "#E8F0F0" 
 footer-text-col: "#404040"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
