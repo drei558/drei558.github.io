@@ -1,13 +1,31 @@
 ---
 layout: home
 title: decolFutures
-subtitle: Data Scientist, Writer, Indie Game Dev
+subtitle: A blog for sharing all things data and my current projects. 
 ---
 <div class="wrapper">
+  <img src="https://drei558.github.io/assets/img/blog_coverimage.png" alt="Cover" style="width:100%">
+  <div class="centered">A blog for sharing all things data and my current projects.</div>
 <style>
-.wrapper {
+  /*for text over cover iamge*/
+  
+  /* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+  /* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+  
+  /* for typing animation */
+  .wrapper {
   height: 15vh;
-  /*This part is important for centering*/
   display: grid;
   place-items: center;
 }
@@ -38,8 +56,7 @@ subtitle: Data Scientist, Writer, Indie Game Dev
       Welcome to the decolFutures blog.
     </div>
 </div>
-<h1>I write about all things data and share what I'm currently working on. Right now that is: client work for DAM and database design, developing indie video games, and designing an AI workshop.</h1>
-<hr>
+<p>Right now I'm working on client work for DAM and database design, developing indie video games, and designing an AI workshop.</p>
 <body>
   <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
