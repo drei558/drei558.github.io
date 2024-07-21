@@ -51,7 +51,7 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  #email: "danareijerkerk@gmail.com"
+  
   instagram: decolfutures
   github: drei558
   itchio: decolfutures
@@ -109,14 +109,14 @@ keywords: "data science,digital asset manager,freelancer,freelance,contractor,da
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#9EB384" 
+navbar-col: "#FFFFFF" 
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF" 
+page-col: "#e8f0f0" 
 text-col: "#404040"
 link-col: "#008AFF" 
 hover-col: "#0085A1"
-footer-col: "#9EB384" 
+footer-col: "#FFFFFF" 
 footer-text-col: "#404040"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
