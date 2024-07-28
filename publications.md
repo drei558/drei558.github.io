@@ -14,7 +14,7 @@ Nyitray, K. J. & **Reijerkerk, D.** “[Librarian Mentorship through Mutual Scho
 **Reijerkerk, D.**, Preate, S. M., Deane, C., and Willis, S. [Evaluating the State of the Cultural Heritage Field: Costs of Digitizing Still Images - Summary Report and Key Findings, Digital Library Federation Assessment Interest Group Costs of Digitization Subgroup](https://osf.io/2n7wc) 
 
 ## 2023
-**Reijerkerk, D.** & Reed, C. “[Archives, Decolonization, and the Politics of Tribal Sovereignty: An Examination of Accessibility Barriers to Indigenous Federal Recognition Research in the United States](https://doi.org/10.17723/2327-9702-86.2.565),” _American Archivist_ 86, no.2 (2023).
+**Reijerkerk, D.** & Reed, C. “[Archives, Decolonization, and the Politics of Tribal Sovereignty: An Examination of Accessibility Barriers to Indigenous Federal Recognition Research in the United States](https://doi.org/10.17723/2327-9702-86.2.565),” _The American Archivist_ 86, no.2 (2023).
 
 >Awarded the Society of American Archivists' Fellows' Ernst Posner Award. This competitive prestigious award is given to an “outstanding essay dealing with some facet of archival administration, history, theory, and/or methodology that was published during the preceding year in _The American Archivist_.
 
