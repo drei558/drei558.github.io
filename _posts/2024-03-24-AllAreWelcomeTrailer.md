@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All Are Welcome Video Game Official Trailer Out Now
-tags: [Video Game, Gameplay Trailer]
+tags: [Video Game, Animation]
 comments: true
 ---
 
