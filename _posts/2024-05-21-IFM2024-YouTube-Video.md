@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hear About Our Methods for The Relational Possibilities Project
-tags: [Research,Writing,AI Data Literacy Workshop,Public Speaking]
+tags: [Research,Writing,AI,Public Speaking]
 comments: true
 ---
 The Relational Possibilities Project is LIVE. We're presenting the project at the _Interactive Film and Media International Conference_ in June!
