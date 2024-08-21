@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Digital Asset Management Helps With Data Management 
-tags: [Digital Asset Management,DAM,Freelance, Education]
+tags: [Services, Client Work, DAM,Education]
 comments: true
 ---
 I freelance all over the world with clients interested in managing their data. Digital stuff dies. Managing data - whether that's a photo, a social media post, event his blog post - is a race against the clock. 
