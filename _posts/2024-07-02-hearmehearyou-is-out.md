@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hear Me, Hear You is Now Out
-tags: [IndieGame, IndieDev]
+tags: [Video Game, Animation]
 comments: true
 ---
 
