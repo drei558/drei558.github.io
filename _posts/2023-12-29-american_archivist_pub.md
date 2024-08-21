@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Publication - The American Archivist Fall/Winter 2023 issue
-tags: [Research]
+tags: [Research,Writing]
 comments: false
 ---
 
