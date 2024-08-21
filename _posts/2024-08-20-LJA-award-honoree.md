@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Relational Possibilities Project Wins Honorable Mention for the Library Juice Press, the Vattemare Award
-tags: [Award, The Relational Possibilities Project]
+tags: [Award, Projects]
 comments: true
 ---
 
