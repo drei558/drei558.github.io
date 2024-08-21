@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Goodbye "Hear Me, Hear You," and Hello Top-Down JRPG Game
-tags: [Video Game, Indie Dev, Animation,Writing]
+tags: [Video Game,Animation,Writing]
 comments: true
 ---
 I'm currently writing for a new top-down JRPG game in GameMaker with some mutual friends from my last jam! No spoilers yet - but think _Final Fantasy_ and _Pokemon_. I wrapped up the last indie game I directed, coding, and wrote and want to share this complex animation. 
