@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Full Release of "All Are Welcome" Video Game
-tags: [Research,Projects]
+tags: [Video Game,Projects]
 comments: false
 ---
 I'm excited to announce the full release of my LEADING fellowship [video game for free on itch.io](https://decolfutures.itch.io/all-are-welcome).
