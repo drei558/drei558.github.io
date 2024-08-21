@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Newsletter Issue - Look at How Cool Your Data Can be Presented
-tags: [Newsletter, Data Visualizations]
+tags: [Newsletter,Writing,Data Visualization]
 comments: true
 ---
 I got ghosted by a publisher reecently and it made me think about the illusion of choice research presents when publishing. There's clout attached to journal articles or books, but does that really matter in society? No. 
