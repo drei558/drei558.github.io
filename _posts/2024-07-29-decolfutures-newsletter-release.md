@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dreaded Database Migration Problem is We Forget Staff Are Users Too 
-tags: [Education,Newsletter,Data Migration]
+tags: [Newsletter,Writing,Data Migration]
 comments: true
 ---
 In my latest issue of the decolFutures Newsletter I talk about the dreaded data migration problem and how staff as users of systems are often overlooked during migrations. 
