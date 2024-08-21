@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get the TL;DR of Recognition Politics in the US
-tags: [Research, Freelance, Writing]
+tags: [Research, Writing, Services, Client Work]
 comments: true
 ---
 I put a bid in for a freelance opportunity last week and they asked for an educational TL;DR (too long; didn't read) script. **(Θ︹Θ)ს**
