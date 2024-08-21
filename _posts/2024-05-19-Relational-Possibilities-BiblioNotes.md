@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Relational Possibilities Project Appears in Biblio-Notes
-tags: [Research, Writing, AI Data Literacy Workshop]
+tags: [Research, Writing, AI]
 comments: true
 ---
 The Relational Possibilities project showcases the unparalleled artistic and expressive capabilities of employing generative Artificial Intelligence (AI) imagery and audio technologies to facilitate immersive and interactive design in film and media. As the seminal collaboration between Dana Reijerkerk and kYmberly Keeton (The Creative CoLab), _Relational Possibilities: A Remix of Aesthetic Forms Through Indigeneity and Blackness_ is a meta creative digital work between two researchers, writers, and artists from different races using generative AI. 
