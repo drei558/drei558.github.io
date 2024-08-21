@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Publication - Philosophical Transactions of the Royal Society B
-tags: [Research]
+tags: [Research, Writing]
 comments: false
 ---
 
