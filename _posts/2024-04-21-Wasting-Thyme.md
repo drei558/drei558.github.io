@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Play a cozy game (I do non-horror now)!
-tags: [Video Game, Game Jam,Dev Log]
+tags: [Video Game]
 comments: true
 ---
 ![Cover art for Wasting Thyme, a video game](https://drei558.github.io/assets/img/WastingThyme_CoverArt.png)
