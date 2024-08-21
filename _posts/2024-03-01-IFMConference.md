@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm presenting at the Interactive Film & Media Conference in Toronto, Canada
-tags: [Research, Data Science, Public Speaking]
+tags: [Research, Data Science, Public Speaking, Animation]
 comments: true
 ---
 My Collaborative Partner kYmberly Keeton and I got accepted to the *6th Interactive Film & Media International Virtual Conference*! The conference is FREE! Register and check out our research!
