@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm available for remote freelance contracts and projects!
-tags: [Services]
+tags: [Services, Client Work]
 comments: true
 ---
 I currently have space for remote freelance contracts and projects! I offer creative digital solutions in digital asset management, data migrations, and UX/UI Design for data-driven projects. 
