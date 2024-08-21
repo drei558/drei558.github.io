@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My month of 4 game jams and what's next for my indie game dev adventure
-tags: [Video Game, Game Jam,Dev Log]
+tags: [Video Game, Projects]
 comments: true
 ---
 April was a month of **game jams**! I joined my first one at the tail end of March on a whim. Like half the world, I felt drained from job hunting and burnt out. I needed a break. Desperately. I knew that I wanted to explore more indie game development after producing a short Twine interactive fiction game for a data science fellowship last year. I enjoyed how creative I felt because a lot of my tech and data work is very practical! It also helped that my friend kept texting me, "Do it." 
