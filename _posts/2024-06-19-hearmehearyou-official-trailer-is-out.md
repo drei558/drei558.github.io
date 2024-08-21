@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hear Me, Hear You Official Game Trailer is Out on YouTube Now
-tags: [IndieGame, IndieDev]
+tags: [Video Game, Animation]
 comments: true
 ---
 _Hear Me, Hear You_ is a josei body horror adventure game that will make your skin crawl. This is fully voice acted, includes animation, point and click scenes, an unlockable image gallery with fan and concept art, and much more. The full game comes out July 1st and is part of the Josei Game Jam. Check out the official game trailer on [YouTube](https://youtu.be/5-RIchn6tIo).
