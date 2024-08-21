@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Read About My Freelancing Work with ART | library deco in Metropolitan Archivist
-tags: [Freelance, Writing]
+tags: [Writing, Services, Client Work]
 comments: true
 ---
 
