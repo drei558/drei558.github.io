@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Play as a monster eager to make NEW FRIENDS
-tags: [Video Game, Game Jam, Gameplay Trailer,Dev Log]
+tags: [Video Game, Animation]
 comments: true
 ---
 
