@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Society of American Archivists Officially Announced my Award-Winning Article
-tags: [Awards,Writing]
+tags: [Award,Writing]
 comments: true
 ---
 The Society of American Archivists made it official! 🥳 My colleague and I wrote an article that won an award! I'm accepting it in Chicago next week and I'm so excited. 
