@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Over 200 Downloads My Indie Game Demo For Late Night Surfing
+title: Over 200 Downloads of My Indie Game Demo For Late Night Surfing
 tags: [Projects, Video Game]
 comments: true
 ---
