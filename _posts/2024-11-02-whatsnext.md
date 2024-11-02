@@ -14,6 +14,6 @@ We received glowing reviews from players and the hype is still steadily growing.
 
 As this game jam ends, a new chapter begins in my data projects. Stay tuned next week for exciting news and terrifying 2D retro art for where hashtag#latenightsurfing is going next. 😉
 
+![PleaseStayTuned_241031 ](https://github.com/user-attachments/assets/4b7c90ae-e1cc-4428-8f67-6589fc691273)
 
-https://github.com/user-attachments/assets/d55b4d78-38e0-4bc3-93b3-c9e3ae4e5e28
 
