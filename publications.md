@@ -5,6 +5,8 @@ title: Freelance and Academic Writing
 I write freelance and research pieces on sociotechnical issues in data and the intersections and borders between technology and social power structures. My work appears in blogs, magazines, newsletters, and academic publications. 
 
 ## 2024
+**Reijerkerk, D.** & Nyitray, K.J. "[Flexible Work Empowers: An Inclusive Strategy for Recruitment and Retention of Academic Librarians](https://doi.org/10.5281/zenodo.14201599)." In Lisa Hopkins and Bridgit McCafferty (eds.), _Innovative Library Workplaces: Transformative Human Resource Strategies_ (ACRL Publications, 2024).
+
 Nyitray, K.J. & **Reijerkerk, D.** "Archivists and Emotional Labor: Preserving Personas and Personal Identities in Archives," in Ilaria Scaglia and Valeria Vanesio (eds.) [_Archives and Emotions: An International Dialogue - Past, Present, and Future_](https://www.bloomsbury.com/us/archives-and-emotions-9781350415188/) (Bloomsbury Academic: London, 2024)
 
 > "This timely book on the interplay of emotions and archives addresses a blind spot in most of the current scholarly and professional literature, and discusses how to take the conversation forward." - Eric Ketelaar, Emeritus Professor of Archivistics, University of Amsterdam, Netherlands
