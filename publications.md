@@ -13,7 +13,7 @@ Nyitray, K.J. & **Reijerkerk, D.** "Archivists and Emotional Labor: Preserving P
 
 > "Fear not the dusty archive, for the human capacity to feel is timeless and ubiquitous! Alerted by this book, readers will see that exploring an archive is akin to the pleasures of perusing a family photo album. What untold and hidden emotions might it not reveal alongside the expected?" - Barbara H. Rosenwein, Professor emerita, Loyola University, Chicago, USA
 
-**Reijerkerk, D.** "[The Creative CoLab, Artificial Intelligence, and Web Comics at ART | library deco](https://medium.com/metropolitan-archivist/the-creative-colab-artificial-intelligence-and-webcomics-at-art-library-deco-5893da1fe17d)," _Metropolitan Archivist_ (July 2024 issue)
+**Reijerkerk, D.** "[The Creative CoLab, Artificial Intelligence, and Web Comics at ART library deco](https://medium.com/metropolitan-archivist/the-creative-colab-artificial-intelligence-and-webcomics-at-art-library-deco-5893da1fe17d)," _Metropolitan Archivist_ (July 2024 issue)
 
 **Reijerkerk, D.** "[Learn About the Relational Possibilities of Generative AI and Data Literacy](https://www.ala.org/sites/default/files/2024-05/Biblio-NotesSpring2024-1.pdf)," _Biblio-Notes_ 23 (Spring 2024).  
 
