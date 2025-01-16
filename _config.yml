@@ -52,12 +52,15 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   
-  instagram: decolfutures
-  github: drei558
+  #instagram: decolfutures
+  #github: drei558
+  bluesky: decolfutures
   itchio: decolfutures
-  ORCID: 0000-0002-4516-6923
   linkedin: danareijerkerk
-  youtube: https://www.youtube.com/@decolFutures
+  ORCID: 0000-0002-4516-6923
+  
+  
+  #youtube: https://www.youtube.com/@decolFutures
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -69,11 +72,11 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
-  instagram: true
+  instagram: false
 
 
 # How to display the link to your website in the footer
