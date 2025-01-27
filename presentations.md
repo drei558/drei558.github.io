@@ -4,11 +4,11 @@ title: Public Speaking
 ---
 
 ## Upcoming
-_Archives and Emotions: International Dialogues Across Past, Present, and Future_ Book Launch. Panel Presentation with live audience Q and A. The National Archives, UK, January 23, 2025. (virtual).
-
 Keeton, k. & **Reijerkerk, D.** _The Relational Possibilities Project: Create Your Own Video Game._ Two Day Workshop. Woodrow Wilson High School, Dallas, TX. (virtual). February 2025.
 
 ## Invited Lectures
+_Archives and Emotions: International Dialogues Across Past, Present, and Future_ Book Launch. Panel Presentation with live audience Q and A. The National Archives, UK, January 23, 2025. (virtual).
+
 **Reijerkerk, D.** & Keeton, K. "The Relational Possibilities Data Art Project: Remixing, Decolonizing, and Connecting Digital Community Archives and Data Science," Invited Presentation,  Department of Information, University of North Texas, April 26, 2024. (virtual).
 
 **Reijerkerk, D.** “The Bureaucracies of Indigeneity and Open Access: Achieving and Undermining Change,” Invited lecture. _INFO 679 Museums & Digital Culture: Theory and Practice_ (3 credits), Pratt Institute School of Information, Sara DeYoung (instructor), October 12, 2023. (virtual).
