@@ -21,8 +21,8 @@ author: Dana Reijerkerk
 
 navbar-links:
   About: "https://www.decolfutures.com/about"
-  Public Speaking: "presentations"
-  Publications: "publications"
+  #Public Speaking: "presentations"
+  #Publications: "publications"
   Data Science Portfolio: "https://www.decolfutures.com"
   Hire Me: "https://www.decolfutures.com/services"
  
