@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Player Reviews for Late Night Surfing Are In 
-tags: [Video Games, Game Jam]
+tags: [Video Game, Game Jam]
 comments: true
 ---
 We received glowing reviews from players and the hype is still steadily growing. I'm sharing some of my favorite player reviews: 
