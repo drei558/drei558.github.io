@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Late Night Surfing Nominated for Best Thumbnail in the Spooktober Visual Novel Jam 
-tags: [Video Games, Game Jam]
+tags: [Video Game, Game Jam]
 comments: true
 ---
 
