@@ -483,7 +483,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: #FFFFFF; /* changed font color of post preview date*/
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -800,7 +800,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     margin-top: 0.625rem;
   }
 }
-
+/* */   
 .pagination .page-item .page-link {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
@@ -808,7 +808,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #FFF;
+  background-color: #D59D8D; /* changed button background*/
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
