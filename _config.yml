@@ -112,17 +112,17 @@ keywords: "data science,digital asset manager,data freelancer,indie video games,
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#E8F0F0" 
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#E8F0F0" 
-text-col: "#404040"
-link-col: "#008AFF" 
-hover-col: "#0085A1"
-footer-col: "#E8F0F0" 
-footer-text-col: "#404040"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+navbar-col: "#5c7887" 
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "#80948F"
+page-col: "#5c7887" 
+text-col: "#FFFFFF"
+link-col: "#D59D8D" 
+hover-col: "#D5C18D"
+footer-col: "#5c7887" 
+footer-text-col: "#FFFFFF"
+footer-link-col: "#D59D8D"
+footer-hover-col: "#D5C18D"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
