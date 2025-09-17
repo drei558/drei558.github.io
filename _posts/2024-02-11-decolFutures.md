@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meet the decol Futures Brand
-tags: [Services, Client Work]
+tags: [Freelance]
 comments: false
 ---
 My goal for 2024 is to give _big_, _loud_, _proud_ **Virgo** energy.
