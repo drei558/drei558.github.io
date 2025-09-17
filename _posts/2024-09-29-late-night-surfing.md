@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Story-Driven Psychological Horror Visual Novel Late Night Surfing Launches Today on Itch.io
-tags: [Video Game, Press Release, Batbrain Games]
+tags: [Video Game, Freelance]
 comments: true
 ---
 ## Tune in to TV straight from the dark dimension! But beware: not everything on TV is real.
