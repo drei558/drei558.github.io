@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Digital Asset Management Report Templates Save You Time
-tags: [DAM, Education, Services, Client Work]
+tags: [DAM, Education, Freelance, Client Work]
 comments: true
 ---
 From 2019 - 2023 I presented at the top venues in the data field about practical ways to manage digital assets across different sectors like entertainment, film, cultural heritage, and animation. If you're a digital asset manager, you often have to assess and evaluate your content and present this in layman's terms to colleagues and higher ups that often lack the technical data expertise you possess.
