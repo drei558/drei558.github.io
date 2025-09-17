@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check out my latest webcomic and the ART | library deco newsletter
-tags: [Comic, Newsletter, Client Work, Services]
+tags: [Client Work, Freelance]
 comments: true
 ---
 
