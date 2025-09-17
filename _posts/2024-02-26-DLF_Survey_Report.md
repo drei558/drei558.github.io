@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I finished a costs of digitization data science project
-tags: [Services, Client Work, Writing, Dashboard, Looker, Data Science, Data Analysis]
+tags: [Freelance, Technical Writing]
 comments: true
 ---
 I saw a call for help with data analysis last year in my email, so I joined up! I went to the first few meetings and volunteered to take on their messiest unstructed dataset from a survey sent out in 2021. I convinced the group at large to make dashboards in Looker Studio - - - to make the data stories more interesting!
