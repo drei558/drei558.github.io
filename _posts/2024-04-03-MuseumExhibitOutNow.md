@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Museum Exhibit on the History of Japanese Artists in NYC Pre-WW2 is Live
-tags: [Client Work, Services, Museum Exhibit, UX Design, UI Design]
+tags: [Client Work, Freelance, Museum Exhibit, UX Design]
 comments: true
 ---
 
