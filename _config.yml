@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/dana_essk_profile.png"
+avatar: "assets/img/window_smush.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
@@ -74,7 +74,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: false
+  linkedin: true
   vk: false
   instagram: false
 
@@ -104,7 +104,9 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "data science,digital asset manager,digital asset management, developer, SQL, databases, publication design, technical writing, dashboards, tableau, data analysis, data visualization, narrative design, digital exhibits, digital project manager, DAM, CMS, web content management, digital archiving, data freelancer,indie video games,data consultant,dana reijerkerk"
+keywords: "Data Consultant NYC, Freelance Digital Asset Management NYC, FullStack Development Consultant NYC, Dana Reijerkerk, Straight speaking, Freelance data services and support,  nonprofits, archives, libraries, museums, galleries, cultural heritage institutions, animators, animation companies, creatives"
+
+description: "Freelance Data, Digital Asset Management, and FullStack Development Consultant NYC. Straight speaking, I help nonprofits, cultural heritage institutions, and creatives manage their IT systems databases websites and media."
 
 ######################################
 # --- Colours / background image --- #
