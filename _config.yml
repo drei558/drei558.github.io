@@ -52,12 +52,12 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   
-  #instagram: decolfutures
+  instagram: decolfutures
   #github: drei558
-  bluesky: decolfutures
-  itchio: decolfutures
+  bluesky: https://bsky.app/profile/decolfutures.bsky.social #decolfutures
+  itchio: https://decolfutures.itch.io/ #decolfutures
   linkedin: danareijerkerk
-  ORCID: 0000-0002-4516-6923
+  ORCID: https://orcid.org/0000-0002-4516-6923 #0000-0002-4516-6923
   
   
   #youtube: https://www.youtube.com/@decolFutures
@@ -76,7 +76,7 @@ share-links-active:
   facebook: false
   linkedin: true
   vk: false
-  instagram: false
+  instagram: true
 
 
 # How to display the link to your website in the footer
