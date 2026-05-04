@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Fever Issue 2 - Asking Leadership Data Related Questions
-tags: [RSpring Fever Comic, Freelance Data Services NYC, DAM, Digital Asset Management, Caw Doodles]
+tags: [Spring Fever Comic, Freelance Data Services NYC, DAM, Digital Asset Management, Caw Doodles]
 comments: true
 ---
 
