@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recap of My Talk at the Billy Joel Symposium
-tags: [Algorithmic Bias, Social Media Platforms, Gen Zers, Affective Archives, Digital Preservation, Data Freelance Services in NYC, Public Speaking, Research, Writing, Caw Doodle]
+tags: [Algorithmic Bias, Social Media Platforms, Gen Zers, Affective Archives, Digital Preservation, Data Freelance Services in NYC, Public Speaking, Research, Writing, Caw Doodles]
 comments: true
 ---
 
