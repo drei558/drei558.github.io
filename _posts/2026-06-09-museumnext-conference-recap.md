@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conference Recap - My Takeaways From MuseumNext's 2026 Museum AI Summit 
-tags: [Artificial Intelligence, AI in Museums,Upskilling, Caw Doodle]
+tags: [Artificial Intelligence, AI in Museums,Upskilling, Caw Doodles]
 comments: true
 ---
 
